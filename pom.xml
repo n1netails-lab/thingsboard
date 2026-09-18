@@ -109,7 +109,7 @@
         <swagger-annotations.version>2.2.30</swagger-annotations.version>
         <spatial4j.version>0.8</spatial4j.version>
         <jts.version>1.19.0</jts.version>
-        <bouncycastle.version>1.84</bouncycastle.version> <!-- 1.84 fixes CVE-2026-5588, CVE-2026-5598, CVE-2025-14813 -->
+        <bouncycastle.version>1.85</bouncycastle.version> <!-- 1.84 fixes CVE-2026-5588, CVE-2026-5598, CVE-2025-14813 -->
         <winsw.version>2.0.1</winsw.version>
         <sonar.exclusions>org/thingsboard/server/gen/**/*,
             org/thingsboard/server/extensions/core/plugin/telemetry/gen/**/*
